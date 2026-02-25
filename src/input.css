@@ -61,7 +61,7 @@ h3 {
 }
 
 .container {
-    max-width: full;
+    max-width: 95%;
     margin: 0 auto;
     padding: 0 10px;
 }
