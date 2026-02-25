@@ -45,6 +45,12 @@ body {
     border-radius: 4px;
 }
 
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-md: 510px;
+}
+
 img {
     max-width: 100%;
 }
@@ -60,7 +66,7 @@ h3 {
 }
 
 .container {
-    max-width: 1380px;
+    max-width: full;
     margin: 0 auto;
     padding: 0 10px;
 }
