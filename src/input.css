@@ -45,6 +45,11 @@ body {
     border-radius: 4px;
 }
 
+
+@theme {
+  --breakpoint-md: 510px;
+}
+
 img {
     max-width: 100%;
 }
@@ -59,3 +64,11 @@ h3 {
     font-weight: 700;
 }
 
+<<<<<<< HEAD
+=======
+.container {
+    max-width: full;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+>>>>>>> 708f8f4f377b9baf2af9a37ee91df1868620c281
